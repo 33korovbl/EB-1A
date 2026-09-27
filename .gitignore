@@ -1,0 +1,7 @@
+# Raw, unredacted materials: keep locally, never commit
+private/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
