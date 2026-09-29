@@ -12,7 +12,7 @@ Entries are added only after the event has happened.
 |---|---|
 | Preparation, evidence and petition assembly | Completed before filing; not yet documented here |
 | Filing: I-140 with concurrent I-907 | [September 27, 2026](#september-27-2026--i-140-and-i-907-filed) |
-| Receipt notice | Pending |
+| Receipt | Receipt email: [September 28, 2026](#september-28-2026--premium-processing-receipt-email); Form I-797 pending |
 | USCIS action on the I-140 | Pending |
 | After the I-140 decision | Not started |
 
@@ -35,6 +35,24 @@ No receipt notice had been received at the time of this entry.
 ![USCIS online account: I-140 case with concurrently filed Request for Premium Processing Service; status "Your form is still being processed"](media/2026-09-27_uscis-account-case-status.png)
 
 *USCIS online account, September 27, 2026. Cropped to the case card.*
+
+### September 28, 2026 — Premium Processing receipt email
+
+USCIS sent an automated Premium Processing email stating that the Texas Service Center had received the I-140 petition, classification sought E11 (the USCIS code for EB-1A).
+The email included a receipt number.
+
+According to the email, the Form I-797 receipt notice will follow by mail, and the Texas Service Center will "adjudicate this case within 15 business days" of the received date.
+
+The email lists September 25, 2026 as the date Form I-907 was received.
+This differs from the filing date: I submitted and paid for both forms on September 27, 2026, and the USCIS online account also shows September 27.
+The Form I-797 receipt notice will show the official received date.
+
+**Status:** I-140 received by the Texas Service Center<br>
+**Source:** USCIS email, September 28, 2026
+
+![USCIS email: the Texas Service Center has received the I-140 petition, classification sought E11; receipt number, names and date of birth redacted](media/2026-09-28_uscis-premium-processing-email.png)
+
+*USCIS email, September 28, 2026. Receipt number, names and date of birth redacted.*
 
 ---
 

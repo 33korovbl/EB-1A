@@ -20,10 +20,10 @@ I currently lead the SMM department at HC Torpedo.
 | **Forms** | I-140, Immigrant Petition for Alien Workers, and I-907, Request for Premium Processing Service, filed concurrently |
 | **Filed** | September 27, 2026, through my USCIS online account |
 | **Premium Processing** | Requested (Form I-907) |
-| **USCIS status** | "Your form is still being processed" |
-| **Receipt notice** | Not yet received |
+| **USCIS status** | I-140 received by the Texas Service Center (USCIS email, September 28, 2026) |
+| **Receipt notice** | Receipt number issued by email; Form I-797 to follow by mail |
 
-*Last updated: September 27, 2026.*
+*Last updated: September 29, 2026.*
 
 ## Contents
 
