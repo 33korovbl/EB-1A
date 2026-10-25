@@ -13,7 +13,7 @@ Entries are added only after the event has happened.
 | Preparation, evidence and petition assembly | Completed before filing; not yet documented here |
 | Filing: I-140 with concurrent I-907 | [September 27, 2026](#september-27-2026--i-140-and-i-907-filed) |
 | Receipt | Receipt email: [September 28, 2026](#september-28-2026--premium-processing-receipt-email); Form I-797 pending |
-| USCIS action on the I-140 | Pending |
+| USCIS action on the I-140 | Pending; status inquiry [October 21, 2026](#october-21-2026--status-inquiry-to-premium-processing), reply [October 22, 2026](#october-22-2026--reply-from-premium-processing) |
 | After the I-140 decision | Not started |
 
 ## Timeline
@@ -53,6 +53,44 @@ The Form I-797 receipt notice will show the official received date.
 ![USCIS email: the Texas Service Center has received the I-140 petition, classification sought E11; receipt number, names and date of birth redacted](media/2026-09-28_uscis-premium-processing-email.png)
 
 *USCIS email, September 28, 2026. Receipt number, names and date of birth redacted.*
+
+### October 21, 2026 — Status inquiry to Premium Processing
+
+By my count, the 15-business-day Premium Processing period ended on October 19, 2026.
+The date is the same whether counted from September 25 (the I-907 received date in the USCIS email) or from September 27 (the filing date), with weekends and the October 12 federal holiday excluded.
+No approval, denial or Request for Evidence had arrived by then.
+My USCIS online account showed no notices; its last status update was "USCIS is currently processing the case", dated September 28, 2026.
+
+On October 21, 2026, I emailed the Texas Service Center Premium Processing mailbox and asked USCIS to:
+
+1. Tell me the current status of the petition and when to expect a decision.
+2. Confirm that the petition remains under premium processing and is assigned to an officer.
+3. Tell me whether a Request for Evidence or any other notice had already been issued, in case it was lost in the mail.
+
+I stated that this was only a status inquiry.
+I did not ask to remove the case from premium processing or to withdraw the petition.
+
+**Status:** No decision or notice received<br>
+**Source:** My email to the Texas Service Center Premium Processing mailbox, October 21, 2026
+
+![My email to the Texas Service Center Premium Processing mailbox asking about the status of the I-140; sender, receipt number, name and date of birth redacted](media/2026-10-21_status-inquiry-email.png)
+
+*My email to the TSC Premium Processing mailbox, October 21, 2026. Sender, receipt number, name and date of birth redacted.*
+
+### October 22, 2026 — Reply from Premium Processing
+
+The Premium Processing mailbox replied the next day.
+According to the reply, the case "remains under active examination and is being reviewed by an adjudicating officer".
+USCIS will notify me if it needs more information or when a decision has been made.
+
+The reply did not give an expected decision date and did not mention the premium processing fee.
+
+**Status:** Under active examination by an adjudicating officer<br>
+**Source:** TSC Premium Processing email, October 22, 2026
+
+![TSC Premium Processing email: the case remains under active examination and is being reviewed by an adjudicating officer](media/2026-10-22_premium-processing-reply.png)
+
+*TSC Premium Processing email, October 22, 2026. Cropped. The Russian text is the Gmail interface.*
 
 ---
 
